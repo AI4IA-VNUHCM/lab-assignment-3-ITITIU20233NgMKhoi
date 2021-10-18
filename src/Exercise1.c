@@ -21,7 +21,7 @@ void Ex1(int arr[], int n){
         return 0;
     }
 }
-printf("\nsymmetric\n");
+printf("symmetric");
 }
 
 int main(int argc, char *argv[]) {
